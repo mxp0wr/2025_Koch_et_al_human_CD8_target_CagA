@@ -11,4 +11,4 @@ The associated raw data and pre-processed data is available on [GEO](https://www
 
 
 ## Citation
-If you refer to this work, please consider citing the following paper:
+If you refer to this work, please cite the following paper:
