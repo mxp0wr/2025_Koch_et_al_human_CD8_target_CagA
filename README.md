@@ -7,7 +7,7 @@ The scRNAseq analyses identify clonally expanded, distinct T cell populations li
 
 ## Data
 
-The associated raw data and pre-processed data is available on [GEO](https://www.ncbi.nlm.nih.gov/geo/) under the accession number GSE308728. The processed and annotated data can be downloaded from Zenodo [10.5281/zenodo.13981508](https://zenodo.org/uploads/17351178). Data comprises single cell RNA sequencing including CDR3 sequencing data derived from gastric T cells of pediatric and adult patients infected with *Helicobacter pylori* and uninfected controls (total 12). 
+The associated raw data and pre-processed data is available on [GEO](https://www.ncbi.nlm.nih.gov/geo/) under the accession number GSE308728. The processed and annotated data can be downloaded from [Zenodo](https://zenodo.org/uploads/17351178). Data comprises single cell RNA sequencing including CDR3 sequencing data derived from gastric T cells of pediatric and adult patients infected with *Helicobacter pylori* and uninfected controls (total 12). 
 
 
 ## Citation
